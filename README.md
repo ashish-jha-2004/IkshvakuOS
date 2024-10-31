@@ -67,7 +67,7 @@ To get a local copy up and running, follow these steps.
 ## Directory Structure
 -------------------
 
-*   /bootloader – Contains bootloader code in Assembly.
+*   /bootloader – Contains bootloader code in Assembly/C++.
     
 *   /kernel – Core kernel source files.
     
