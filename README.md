@@ -53,7 +53,7 @@ To get a local copy up and running, follow these steps.
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/IkshvakuOS.git
+   git clone https://github.com/ashish-jha-2004/IkshvakuOS.git
    cd IkshvakuOS
 
 2. **Build the Project**
@@ -67,15 +67,15 @@ To get a local copy up and running, follow these steps.
 ## Directory Structure
 -------------------
 
-*   /bootloader – Contains bootloader code in Assembly/C++.
+*   `/bootloader` – Contains bootloader code in Assembly/C++.
     
-*   /kernel – Core kernel source files.
+*   `/kernel` – Core kernel source files.
     
-*   /docs – Documentation for each component and concept.
+*   `/docs` – Documentation for each component and concept.
     
-*   /tests – Test files for various functionalities.
+*   `/tests` – Test files for various functionalities.
     
-*   /build – Compiled binary files and ISO images.
+*   `/build` – Compiled binary files and ISO images.
 
 ## Roadmap
 -------
